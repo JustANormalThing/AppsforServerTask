@@ -1,0 +1,4 @@
+target;Bank of Python;12;500000;true;true;Авто
+bank;Bank of Python;10;1000000;true;false;
+target;BestBank;15;300000;false;true;Жилье
+bank;BestBank;8;2000000;false;true;

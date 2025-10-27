@@ -1,0 +1,8 @@
+2025-10-27 11:01:12,112 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-27 11:01:12,112 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-27 11:01:16,343 - root - DEBUG - This is a debug
+2025-10-27 11:01:16,343 - root - INFO - Tihs is info
+2025-10-27 11:01:16,343 - root - WARNING - war
+2025-10-27 11:01:16,343 - root - ERROR - Error
+2025-10-27 11:01:16,343 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 11:01:16] "GET /Log HTTP/1.1" 200 -
